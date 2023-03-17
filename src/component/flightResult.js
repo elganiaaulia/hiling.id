@@ -81,7 +81,7 @@ const FlightResults = ({route, navigation})=>{
         </View>
         </ScrollView>
       </SafeAreaView>
-      <Text style={styles.copyright}>Copyright Elgania Aulia Gemintang - 120140113</Text>
+      <Text style={styles.copyright}>Copyright Elgania AuliaGemintang - 120140113</Text>
     </View>
   )
 }
